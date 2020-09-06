@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace WebApi.Controllers
+namespace OrchardSkills.OrchardCore.WebApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]

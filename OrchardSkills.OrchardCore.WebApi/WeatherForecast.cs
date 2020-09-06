@@ -1,6 +1,6 @@
 using System;
 
-namespace WebApi
+namespace OrchardSkills.OrchardCore.WebApi
 {
     public class WeatherForecast
     {
