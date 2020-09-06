@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\OrchardSkills.OrchardCore.ClientApp\OrchardSkills.OrchardCore.ClientApp.csproj" />
+    <ProjectReference Include="..\OrchardSkills.OrchardCore.WebApi\OrchardSkills.OrchardCore.WebApi.csproj" />
   </ItemGroup>
 
   <ItemGroup>
